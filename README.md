@@ -5,7 +5,7 @@ docker启动。
 git docker docker-compose
 ### 下载
 ```sh
-git clone https://github.com/chinnkarahoi/jd-scripts-docker
+git clone https://github.com/Coder-j/jd_scripts_docker.git
 cd jd-scripts-docker
 ```
 ### 获取cookie
